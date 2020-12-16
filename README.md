@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### I'm a Information System Student
 
 - 🔭 I’m currently working on Web development technologies
-- 🌱 I’m currently php c++
+- 🌱 I’m currently Obeserve - Copy - Modification
 - 👯 I’m looking to collaborate on your Open Source Project
 - ⚡ Fun fact: It's not healthy, but i love chocolate so much
 <details>
